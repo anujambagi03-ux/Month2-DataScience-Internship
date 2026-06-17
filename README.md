@@ -1,4 +1,4 @@
-# Month2-DataScience-Internship
+
 # Month 2 Data Science Internship
 
 ## Overview
